@@ -81,3 +81,6 @@ Servlet API를 직접 사용하는 방식부터 Spring MVC가 제공하는 애�
 - Logback
 - IntelliJ IDEA
 - HTML
+
+## 참고
+- 코드 출처 : 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
