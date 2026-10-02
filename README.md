@@ -29,6 +29,7 @@ Servlet API를 직접 사용하는 방식부터 Spring MVC가 제공하는 애�
 - `@ResponseBody`, `ResponseEntity`를 활용한 HTTP API 응답
 - HTTP 메시지 컨버터의 동작 방식
 - 요청 매핑 핸들러 어댑터의 구조
+- [개념 정리 파일 보기](./src/main/docs)
 
 ## 디렉터리 구조
 
